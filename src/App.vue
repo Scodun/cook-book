@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Welcome from './components/Welcome.vue'
+import Welcome from './views/Welcome.vue'
 
 export default {
   name: 'App',
